@@ -1,9 +1,9 @@
 # Author: Ji Woong Park jjp6315@psu.edu
-# Collaborator:
-# Collaborator:
-# Collaborator:
-# Section: 1
-# Breakout: 12
+# Collaborator: Mary Meier mrm6632@psu.edu
+# Collaborator: Greg Dorazio gmd5474@psu.edu
+# Collaborator: Alex Podlucky app5775@psu.edu
+# Section: 005R (Sec 01-12)
+# Breakout: 9
 def getLetterGrade(grade):
 
   if grade >= 93.0:
